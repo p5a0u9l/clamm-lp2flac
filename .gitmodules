@@ -1,0 +1,6 @@
+[submodule "streams"]
+	path = streams
+	url = ./streams
+[submodule "library"]
+	path = library
+	url = ./library
